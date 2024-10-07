@@ -1,7 +1,10 @@
 # 💫 About Me:
 I am an enthusiastic and detail-oriented entry-level Data Analyst with a solid foundation in data analysis tools such as Excel, SQL, and Power BI. 
 With hands-on experience in collecting, organizing, and interpreting large datasets, I am adept at creating insightful reports and visualizations to support data-driven decision-making. 
-My skills in Excel include advanced formulas, pivot tables, and data cleaning, while my proficiency in SQL allows me to query complex databases for trend identification and actionable insights. Additionally, I have experience using Power BI to design interactive dashboards that provide stakeholders with a clear and concise view of key business metrics. Passionate about solving problems through data, I am always eager to learn new tools and methodologies to enhance my analytical capabilities and drive business success. I thrive in collaborative environments where I can contribute my skills to optimize processes and support organizational growth.
+
+My skills in Excel include advanced formulas, pivot tables, and data cleaning, while my proficiency in SQL allows me to query complex databases for trend identification and actionable insights. Additionally, I have experience using Power BI to design interactive dashboards that provide stakeholders with a clear and concise view of key business metrics. 
+
+Passionate about solving problems through data, I am always eager to learn new tools and methodologies to enhance my analytical capabilities and drive business success. I thrive in collaborative environments where I can contribute my skills to optimize processes and support organizational growth.
 
 ### Click here: :point_right: [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Revathi-Gangadaran/revathi-gangadaran/raw/main/Revathi_Resume.pdf)
 
