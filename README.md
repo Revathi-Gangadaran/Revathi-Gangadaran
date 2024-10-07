@@ -13,11 +13,9 @@ My skills in Excel include advanced formulas, pivot tables, and data cleaning, w
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 
-## My Resume
-Click here to view my resume [:point_right:][![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Revathi-Gangadaran/revathi-gangadaran/raw/main/Revathi_Resume.pdf)
+## Resume
+#### Click here: :point_right: [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Revathi-Gangadaran/revathi-gangadaran/raw/main/Revathi_Resume.pdf)
 
-## My Resume
-[](https://github.com/Revathi-Gangadaran/revathi-gangadaran/raw/main/Revathi_Resume.pdf)
 
 
 
