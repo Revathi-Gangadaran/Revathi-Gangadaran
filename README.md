@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an enthusiastic and detail-oriented entry-level Data Analyst with a solid foundation in data analysis tools such as Excel, SQL, and Power BI. 
+I am an enthusiastic and detail-oriented Data Analyst with a solid foundation in data analysis tools such as Excel, SQL, and Power BI. 
 With hands-on experience in collecting, organizing, and interpreting large datasets, I am adept at creating insightful reports and visualizations to support data-driven decision-making. 
 
 My skills in Excel include advanced formulas, pivot tables, and data cleaning, while my proficiency in SQL allows me to query complex databases for trend identification and actionable insights. Additionally, I have experience using Power BI to design interactive dashboards that provide stakeholders with a clear and concise view of key business metrics. 
