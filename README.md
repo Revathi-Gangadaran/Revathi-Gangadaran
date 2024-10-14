@@ -1,3 +1,6 @@
+
+<img src="img2.webp" alt="Demo GIF" width="1300" height = "200"/>
+
 # 💫 About Me:
 I am an enthusiastic and detail-oriented Data Analyst with a solid foundation in data analysis tools such as Excel, SQL, and Power BI. 
 With hands-on experience in collecting, organizing, and interpreting large datasets, I am adept at creating insightful reports and visualizations to support data-driven decision-making. 
