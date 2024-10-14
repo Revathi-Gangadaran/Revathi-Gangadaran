@@ -1,4 +1,5 @@
-<img src="2.webp" alt="Demo GIF" width="1300" height = "450"/>
+
+<img src="2.webp" alt="Demo GIF" width="1300" height = "350"/>
 
 # 💫 About Me:
 <img src="3.gif" alt="Demo GIF" width="300" height = "300" align ="right" />
