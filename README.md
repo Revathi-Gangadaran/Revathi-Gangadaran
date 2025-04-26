@@ -11,7 +11,6 @@ My skills in Excel include advanced formulas, pivot tables, and data cleaning, w
 
 Passionate about solving problems through data, I am always eager to learn new tools and methodologies to enhance my analytical capabilities and drive business success. I thrive in collaborative environments where I can contribute my skills to optimize processes and support organizational growth.</p></html> 
 
-### Click here: :point_right: [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Revathi-Gangadaran/revathi-gangadaran/raw/main/Revathi_Resume.pdf)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revathi-gangadaran/)  
